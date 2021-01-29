@@ -9,12 +9,6 @@ public class Compte {
 	private int typecompte;
 	private int etat;
 	
-	
-	
-	
-	
-	
-	
 	public Compte(String pseudo_nom, String mot_pass) {
 		super();
 		this.pseudo_nom = pseudo_nom;
@@ -24,9 +18,6 @@ public class Compte {
 	public Compte() {
 		super();
 	}
-	
-	
-	
 	
 	public String getPseudo_nom() {
 		return pseudo_nom;

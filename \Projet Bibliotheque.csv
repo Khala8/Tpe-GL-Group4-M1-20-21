@@ -1,0 +1,17 @@
+Item,Value,Mean Value per Class,Max Value,Resource with Max Value,Description
+Number of Classes,25.0,0.0,1.0,Etudiant.java,Return the number of classes and inner classes of a class in a project.
+Lines of Code,5703.0,228.12000000000003,2236.0,MenuAdmins.java,Number of the lines of the code in a project.
+Number of Methods,345.0,13.8,82.0,MenuAdmins.java,The number of methods in a project.
+Number of Attributes,446.0,17.84,230.0,MenuAdmins.java,The number of attributes in a project.
+Cyclomatic Complexity,706.0,28.239999999999984,21.0,MenuAdmins.java,It is calculated based on the number of different possible paths through the source code.
+Weight Methods per Class,3410.0,136.4,37.0,MenuAdmins.java,It is the sum of the complexities of all class methods.
+Depth of Inheritance Tree,30.0,1.2000000000000002,2.0,Etudiant.java,Provides the position of the class in the inheritance tree.
+Number of Children,6.0,0.24,3.0,Adherent.java,It is the number of direct descendants (subclasses) for each class.
+Coupling between Objects,91.0,3.64,30.0,DocumentBD.java,Total of the number of classes that a class referenced plus the number of classes that referenced the class.
+Fan-out,25.0,1.0,1.0,Etudiant.java,Defined as the number of other classes referenced by a class.
+Response for Class,735.0,29.400000000000002,276.0,MenuAdmins.java,Measures the complexity of the class in terms of method calls. It is calculated by adding the number of methods in the class (not including inherited methods) plus the number of distinct method calls made by the methods in the class (each method call is counted only once even if it is called from different methods).
+Lack of Cohesion of Methods,237.0,9.48,72.0,MenuAdmins.java,LCOM defined by CK.
+Lack of Cohesion of Methods 2,11.145551097631035,0.4458220439052414,0.9778322106552358,MenuAdmins.java,"It is the percentage of methods that do not access a specific attribute averaged over all attributes in the class. If the number of methods or attributes is zero, LCOM2 is undefined and displayed as zero."
+Lack of Cohesion of Methods 4,445.0,17.8,230.0,MenuAdmins.java,"LCOM4 measures the number of 'connected components' in a class. A connected component is a set of related methods and fields. There should be only one such component in each class. If there are 2 or more components, the class should be split into so many smaller classes."
+Tight Class Cohesion,1.6920000000000002,0.06768,0.215,Inscription.java,"Measures the 'connection density', so to speak (while LCC is only affected by whether the methods are connected at all)."
+Loose Class Cohesion,1.6905999999999999,0.06762399999999999,0.215,Inscription.java,Measures the overall connectedness. It depends on the number of methods and how they group together.

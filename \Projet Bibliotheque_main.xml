@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<measures>
+  <measure>
+    <name>Number of Classes</name>
+    <value>25.0</value>
+    <mean>0.0</mean>
+    <min>1.0</min>
+    <max>1.0</max>
+    <classWithMaxValue>Etudiant.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Lines of Code</name>
+    <value>5703.0</value>
+    <mean>228.12000000000003</mean>
+    <min>3.0</min>
+    <max>2236.0</max>
+    <classWithMaxValue>MenuAdmins.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Number of Methods</name>
+    <value>345.0</value>
+    <mean>13.8</mean>
+    <min>2.0</min>
+    <max>82.0</max>
+    <classWithMaxValue>MenuAdmins.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Number of Attributes</name>
+    <value>446.0</value>
+    <mean>17.84</mean>
+    <min>0.0</min>
+    <max>230.0</max>
+    <classWithMaxValue>MenuAdmins.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Cyclomatic Complexity</name>
+    <value>706.0</value>
+    <mean>28.239999999999984</mean>
+    <min>1.0</min>
+    <max>21.0</max>
+    <classWithMaxValue>MenuAdmins.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Weight Methods per Class</name>
+    <value>3410.0</value>
+    <mean>136.4</mean>
+    <min>2.0</min>
+    <max>37.0</max>
+    <classWithMaxValue>MenuAdmins.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Depth of Inheritance Tree</name>
+    <value>30.0</value>
+    <mean>1.2000000000000002</mean>
+    <min>0.0</min>
+    <max>2.0</max>
+    <classWithMaxValue>Etudiant.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Number of Children</name>
+    <value>6.0</value>
+    <mean>0.24</mean>
+    <min>0.0</min>
+    <max>3.0</max>
+    <classWithMaxValue>Adherent.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Coupling between Objects</name>
+    <value>91.0</value>
+    <mean>3.64</mean>
+    <min>1.0</min>
+    <max>30.0</max>
+    <classWithMaxValue>DocumentBD.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Fan-out</name>
+    <value>25.0</value>
+    <mean>1.0</mean>
+    <min>1.0</min>
+    <max>1.0</max>
+    <classWithMaxValue>Etudiant.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Response for Class</name>
+    <value>735.0</value>
+    <mean>29.400000000000002</mean>
+    <min>2.0</min>
+    <max>276.0</max>
+    <classWithMaxValue>MenuAdmins.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Lack of Cohesion of Methods</name>
+    <value>237.0</value>
+    <mean>9.48</mean>
+    <min>0.0</min>
+    <max>72.0</max>
+    <classWithMaxValue>MenuAdmins.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Lack of Cohesion of Methods 2</name>
+    <value>11.145551097631035</value>
+    <mean>0.4458220439052414</mean>
+    <min>0.0</min>
+    <max>0.9778322106552358</max>
+    <classWithMaxValue>MenuAdmins.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Lack of Cohesion of Methods 4</name>
+    <value>445.0</value>
+    <mean>17.8</mean>
+    <min>0.0</min>
+    <max>230.0</max>
+    <classWithMaxValue>MenuAdmins.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Tight Class Cohesion</name>
+    <value>1.6920000000000002</value>
+    <mean>0.06768</mean>
+    <min>0.0</min>
+    <max>0.215</max>
+    <classWithMaxValue>Inscription.java</classWithMaxValue>
+  </measure>
+  <measure>
+    <name>Loose Class Cohesion</name>
+    <value>1.6905999999999999</value>
+    <mean>0.06762399999999999</mean>
+    <min>0.0</min>
+    <max>0.215</max>
+    <classWithMaxValue>Inscription.java</classWithMaxValue>
+  </measure>
+</measures>

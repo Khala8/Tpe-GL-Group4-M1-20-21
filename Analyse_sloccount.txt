@@ -1,0 +1,46 @@
+Have a non-directory at the top, so creating directory top_dir
+Adding /home/kouam/Bureau/Fac M1/Gelo/Tpe-GL-Group4-M1-20-21//Analyse_cloc to top_dir
+Adding /home/kouam/Bureau/Fac M1/Gelo/Tpe-GL-Group4-M1-20-21//Fichier de discussion.txt to top_dir
+Creating filelist for bin
+Adding /home/kouam/Bureau/Fac M1/Gelo/Tpe-GL-Group4-M1-20-21//build.fxbuild to top_dir
+Adding /home/kouam/Bureau/Fac M1/Gelo/Tpe-GL-Group4-M1-20-21//rapport_Kouam1.docx to top_dir
+Creating filelist for src_Adherents
+Creating filelist for src_Documents
+Creating filelist for src_application
+Have a non-directory at the top, so creating directory src_top_dir
+Adding /home/kouam/Bureau/Fac M1/Gelo/Tpe-GL-Group4-M1-20-21//src/image.jpg to src_top_dir
+Categorizing files.
+Finding a working MD5 command....
+Found a working MD5 command.
+Computing results.
+
+
+SLOC	Directory	SLOC-by-Language (Sorted)
+5423    src_application java=5423
+231     src_Documents   java=231
+143     src_Adherents   java=143
+0       bin             (none)
+0       src_top_dir     (none)
+0       top_dir         (none)
+
+
+Totals grouped by language (dominant language first):
+java:          5797 (100.00%)
+
+
+
+
+Total Physical Source Lines of Code (SLOC)                = 5,797
+Development Effort Estimate, Person-Years (Person-Months) = 1.27 (15.19)
+ (Basic COCOMO model, Person-Months = 2.4 * (KSLOC**1.05))
+Schedule Estimate, Years (Months)                         = 0.59 (7.03)
+ (Basic COCOMO model, Months = 2.5 * (person-months**0.38))
+Estimated Average Number of Developers (Effort/Schedule)  = 2.16
+Total Estimated Cost to Develop                           = $ 171,004
+ (average salary = $56,286/year, overhead = 2.40).
+SLOCCount, Copyright (C) 2001-2004 David A. Wheeler
+SLOCCount is Open Source Software/Free Software, licensed under the GNU GPL.
+SLOCCount comes with ABSOLUTELY NO WARRANTY, and you are welcome to
+redistribute it under certain conditions as specified by the GNU GPL license;
+see the documentation for details.
+Please credit this data as "generated using David A. Wheeler's 'SLOCCount'."
