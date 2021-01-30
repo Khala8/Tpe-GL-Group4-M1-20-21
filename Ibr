@@ -1,0 +1,192 @@
+Ce dépôt est un Tpe pour génie logiciel en M1 
+
+Le rapport de l'analyse du code source 
+Groupe Tpe 4.
+
+------------------
+LOC 
+------------------
+Total LOC: 8188
+
+Classes LOC:
+
+MenuAdmins: 3386
+MenuAdherent: 1043
+DocumentBD: 913
+InscriptionEtAuthentification: 547
+AdherentBD: 382
+
+Packages LOC:
+
+src: 8188
+application: 7591
+Documents: 348
+Adherents: 249
+application: 0
+
+------------------
+Lines with imports 
+------------------
+Total imports: 284
+
+Classes imports:
+
+MenuAdherent: 52
+MenuAdmins: 45
+InscriptionEtAuthentification: 34
+Inscription: 22
+DetMag: 21
+
+Packages imports:
+
+src: 284
+application: 282
+Documents: 2
+Adherents: 0
+application: 0
+
+------------------
+Blank lines
+------------------
+Total blank lines: 2053
+
+Classes blank lines:
+
+MenuAdmins: 912
+MenuAdherent: 205
+DocumentBD: 176
+InscriptionEtAuthentification: 143
+Inscription: 80
+
+Packages blank lines:
+
+src: 2053
+application: 1848
+Documents: 107
+Adherents: 98
+application: 0
+
+------------------
+Classes count
+------------------
+Total classes: 25
+
+Packages with the biggest number of classes:
+
+src: 25
+application: 17
+Documents: 4
+Adherents: 4
+application: 0
+
+------------------
+Methods count
+------------------
+Total methods: 317
+
+Classes with the biggest number of methods:
+
+MenuAdmins: 82
+MenuAdherent: 40
+DocumentBD: 31
+Document: 24
+InscriptionEtAuthentification: 16
+
+------------------
+Cyclomatic complexity
+------------------
+Average cyclomatic complexity: 1.8958990536277602
+
+Methods with the highest cyclomatic complexity:
+
+InscriptionEtAuthentification::inscrire: 11
+Inscription::inscrire: 11
+MenuAdmins::ajouterLivre: 11
+MenuAdmins::modifierMagazine: 10
+MenuAdmins::modifierDictionnaire: 10
+MenuAdmins::remplireDictionnaire: 10
+MenuAdmins::modifierLivre: 10
+
+------------------
+LCOM
+------------------
+
+------------------
+Average LCOM 1: 47
+------------------
+
+Classes with the highest LCOM 1:
+
+DocumentBD: 465
+Document: 252
+AdherentBD: 78
+Adherent: 77
+Compte: 77
+
+Packages with the highest average LCOM 1:
+
+Documents: 69
+application: 48
+src: 47
+Adherents: 20
+application: 0
+
+------------------
+Average LCOM 2: 0.4705693155951507
+------------------
+
+Classes with the highest LCOM 2:
+
+MenuAdmins: 0.9276246023329798
+Document: 0.9166666666666666
+MenuAdherent: 0.8928125
+Adherent: 0.8571428571428572
+Compte: 0.8571428571428572
+
+Packages with the highest average LCOM 2:
+
+Documents: 0.6666666666666666
+Adherents: 0.5892857142857143
+src: 0.4705693155951507
+application: 0.39649549212172025
+application: 0.0
+
+------------------
+Average LCOM 3: 0.5346011071590782
+------------------
+
+Classes with the highest LCOM 3:
+
+DocumentBD: 0.0
+Document: 0.9565217391304348
+AdherentBD: 0.0
+Adherent: 0.9230769230769231
+Compte: 0.9230769230769231
+
+Packages with the highest average LCOM 3:
+
+Documents: 0.7867494824016562
+application: 0.4291148721349063
+src: 0.5346011071590782
+Adherents: 0.7307692307692307
+application: 0.0
+
+------------------
+Average LCOM 4: 5
+------------------
+
+Classes with the highest LCOM 4:
+
+DocumentBD: 31
+AdherentBD: 13
+Document: 12
+MenuAdmins: 11
+MenuAdherent: 9
+
+Packages with the highest average LCOM 4:
+
+application: 6
+Documents: 5
+src: 5
+Adherents: 3
+application: 0
