@@ -14,7 +14,7 @@ Finding a working MD5 command....
 Found a working MD5 command.
 Computing results.
 
-
+ 
 SLOC	Directory	SLOC-by-Language (Sorted)
 5423    src_application java=5423
 231     src_Documents   java=231
