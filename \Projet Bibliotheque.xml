@@ -27,7 +27,7 @@
   <measure>
     <name>Number of Attributes</name>
     <value>446.0</value>
-    <mean>17.84</mean>
+    <mean>17.84</mean> 
     <min>0.0</min>
     <max>230.0</max>
     <classWithMaxValue>MenuAdmins.java</classWithMaxValue>
