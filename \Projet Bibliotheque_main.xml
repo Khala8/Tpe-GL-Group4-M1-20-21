@@ -25,7 +25,7 @@
     <classWithMaxValue>MenuAdmins.java</classWithMaxValue>
   </measure>
   <measure>
-    <name>Number of Attributes</name>
+    <name>Number of Attributes</name> 
     <value>446.0</value>
     <mean>17.84</mean>
     <min>0.0</min>
